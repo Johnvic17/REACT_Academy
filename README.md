@@ -4,55 +4,55 @@ REACT_academy is a simple and functional landing page built with React and React
 
 The project leverages core technologies from the React ecosystem, including:
 
-  ·React for building an interactive UI
+  •React for building an interactive UI
   
-  ·React Router DOM for seamless client-side routing
+  •React Router DOM for seamless client-side routing
   
-  ·HTML and CSS for structure and styling
+  •HTML and CSS for structure and styling
 
 This project showcases a clean and scalable implementation of routing in a React-based application.
 
 🔧 Technologies Used
 
-  ·React
+  •React
   
-  ·React Router DOM
+  •React Router DOM
   
-  ·HTML5
+  •HTML5
   
-  ·CSS3
+  •CSS3
   
-  ·JavaScript (ES6+)
+  •JavaScript (ES6+)
 
 🚀 Installation
 
-１.Clone the repository:
+１•Clone the repository:
 
-  ·git clone https://github.com/Johnvic17/REACT_Academy.git
+  •git clone https://github.com/Johnvic17/REACT_Academy.git
 
-２.Navigate to the project directory:
+２•Navigate to the project directory:
 
-  ·cd REACT_academy
+  •cd REACT_academy
 
-３.Install dependencies:
+３•Install dependencies:
 
-  ·npm install
+  •npm install
 
-４.Start the development server:
+４•Start the development server:
 
-  ·npm start
+  •npm start
 
-５.The app will run locally at http://localhost:3000.
+５•The app will run locally at http://localhost:3000.
 
 💡 How to Use
 
 Once the project is running locally, you can navigate between the three main sections using the navigation bar:
 
-  ·Home – Introductory content and welcome message
+  •Home – Introductory content and welcome message
   
-  ·About – Information about the project or business
+  •About – Information about the project or business
   
-  ·Contact – Contact details and/or form
+  •Contact – Contact details and/or form
 
 Routing is handled by React Router, allowing smooth transitions without page reloads.
 
