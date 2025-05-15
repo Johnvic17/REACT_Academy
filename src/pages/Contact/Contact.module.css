@@ -1,0 +1,79 @@
+.container {
+    background-image: url(../../assets/contact.png);
+    height: 100vh;
+    padding-top: 4vw;
+    background-position: center top;
+    background-size: cover;
+}
+
+.container h3 {
+    padding-top: 5vw;
+    padding-left: 5vw;
+    padding-right: 1vw;
+    font-size: 6vw;
+    color: var(--color-beige);
+    text-align: start;
+    width: 38vw;
+}
+
+.container h4 {
+    color: #ccc;
+    padding-left: 5vw;
+    padding-top: 1em;
+}
+
+.contact { 
+    display: flex;
+    flex-direction: column;
+    padding-top: 5vw;
+    padding-left: 5vw;
+}
+
+.contact a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1em;
+    background-color: var(--color-beige);
+    height: 3vw;
+    width: 9vw;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    color: var(--color-black);
+    transition: .5s;
+}
+
+.contact img {
+    height: 3vw;
+    width: 3vw;
+    margin-right: 1vw;
+}
+
+.contact div {
+    display: flex;
+}
+
+/* .img_a {
+    display: flex;
+} */
+
+.instagram:hover {
+    color: #fff;
+    background-color: #d92b71;
+}
+
+.email:hover {
+    color: #fff;
+    background-color: #ce3c30;
+}
+
+.github:hover {
+    color: #fff;
+    background-color: #202020;
+}
+
+.linkedin:hover {
+    color: #fff;
+    background-color: #5ab0f7;
+}

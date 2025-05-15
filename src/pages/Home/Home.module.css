@@ -1,0 +1,30 @@
+.container {
+    background-image: url(../../assets/home.png);
+    height: 100vh;
+    padding-top: 4vw;
+    background-position: center top;
+    background-size: cover;
+}
+
+.title {
+    padding-top: 5vw;
+    padding-left: 5vw;
+    padding-right: 1vw;
+    font-size: 7vw;
+    color: var(--color-white);
+    text-align: start;
+    width: 38vw;
+    text-transform: uppercase;
+}
+
+.btn{
+    margin-top: 5vw;
+    margin-left: 5vw;
+    padding: 10px 10px;
+    background-color: var(--color-beige);
+    font-size: 2.5em;
+    color: var(--color-black);
+    border: none;
+    cursor: pointer;
+}
+

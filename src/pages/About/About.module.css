@@ -1,0 +1,42 @@
+.container {
+    background-image: url(../../assets/about.png);
+    height: 100vh;
+    padding-top: 4vw;
+    background-position: center top;
+    background-size: cover;
+}
+
+.about {
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 5vw;
+    padding-left: 5vw;
+}
+
+.about h2{
+    padding-bottom: 1vw;
+    font-size: 4vw;
+    color: var(--color-beige);
+    text-align: start;
+    width: 38vw;
+    text-transform: uppercase;
+}
+
+.about p {
+    letter-spacing: 4px;
+    color: #dddddd;
+    font-weight: bold; 
+    font-size: 1.2vw;   
+}
+
+.btn {
+    margin-top: 2vw;
+    padding: 10px 10px;
+    background-color: var(--color-beige);
+    font-size: 2em;
+    color: var(--color-black);
+    border: none;
+    cursor: pointer;
+}
